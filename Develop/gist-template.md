@@ -15,23 +15,17 @@ This pattern is a staple in web development, as it ensures that user input confo
 
 ## Table of Contents
 
--[Introduction](#Introduction to Regular Expressions)
--[Overview](#Overview of Email Validation Regex)
--[Break_Down](#Break Down of the Regex Pattern)
-   The Caret "^" and Dollar Sign "$"
-   Matching the Local Part of an Email
-      Alphanumeric and Special Characters
-      The Plus "+" Quantifier
-   The At Symbol "@" and Domain Name
-      Domain Characters and Periods
-      The Escape Character "\"
-   The Top-Level Domain
-      Curly Braces "{}" Quantification
-      Character Set for Top-Level Domain
--[Examles](#Examples and Test Cases)
--[Common_Issues](#Common Issues)
--[Conclusion](#Conclusion)
--[About_Me](#About Me)
+- [Introduction](#introductory-paragraph)
+- [Summary](#summary)
+- [Break Down of the Regex Pattern](#break-down-of-the-regex-pattern)
+  - [The Caret (^) and Dollar Sign ($)](#1-the-caret-and-dollar-sign)
+  - [Matching the Local Part of an Email](#2-matching-the-local-part-of-an-email)
+  - [The At Symbol (@) and Domain Name](#3-the-at-symbol-and-domain-name)
+  - [The Top-Level Domain](#4-the-top-level-domain)
+- [Examples and Test Cases](#examples-and-test-cases)
+- [Common Issues](#common-issues)
+- [Conclusion](#conclusion)
+- [About Me](#about-me)
 
 
 ## Break Down
